@@ -55,21 +55,21 @@ for (int i = 1; i <= n; i *= 2) {
 ```
 Dựa vào các phương pháp để phân tích độ phức tạp thời gian của thuật toán.
 
-Đặt \(k = \lfloor \log_2 n \rfloor\). Khi đó các giá trị của `i` là \(2^0, 2^1, 2^2, ..., 2^k\).  
-Tổng số lần thực hiện khối O(1):
+Đặt $(k = \lfloor \log_2 n \rfloor)$. Khi đó các giá trị của $i$ là $(2^0, 2^1, 2^2, ..., 2^k)$.  
+Tổng số lần thực hiện khối $O(1)$:
 
-\[
+$$
 T(n) = \sum_{t=0}^{k} 2^t = 2^{k+1} - 1.
-\]
+$$
 
-Vì \(2^k \le n < 2^{k+1}\) nên \(T(n) < 2^{k+1} \le 2n\).  
+Vì $(2^k \le n < 2^{k+1})$ nên $(T(n) < 2^{k+1} \le 2n)$.  
 Suy ra:
 
-\[
+$$
 T(n) = O(n).
-\]
+$$
 
-(Mở rộng do \(T(n) \le 2n\) và \(T(n) > n\) nên \(T(n) = \Theta(n)\).)
+(Mở rộng do $(T(n) \le 2n)$ và $(T(n) > n)$ nên $(T(n) = \Theta(n))$).
 
 ---
 
