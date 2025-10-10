@@ -11,10 +11,12 @@
 | 10/2/2025 20:26:04 | 24520020@gm.uit.edu.vn | Hà Bùi Trọng Nghĩa | 24520020 | 8 | [Link](https://drive.google.com/open?id=1Iz7qgZgXSFyJAUAXQgY52uNIdjzz7kuw) | 9 | bài 3 chưa rõ ràng về công thức tổng quát |
 | 10/2/2025 20:35:58 | 24520755@gm.uit.edu.vn | Nguyễn Duy Khang | 24520755 | 8 | [Link](https://drive.google.com/open?id=1y2wYicoH3F1qeAIZZLDOJdeKDMq-I9ij) | 9 | bài 3 chưa rõ ràng về công thức tổng quát |
 | 10/8/2025 8:10:30 | 24520020@gm.uit.edu.vn | Hà Bùi Trọng Nghĩa | 24520020 | 8 | [Link](https://drive.google.com/open?id=1qUi-9VRrJwYrIKGDyKOEYUBLJApIhZHV) | 9 | bài 3 chưa rõ ràng về công thức tổng quát |
-| 10/2/2025 20:47:00 | 24521703@gm.uit.edu.vn | Phạm Ngọc Phú Thịnh - ... | 24521703 - 24520004 | 11 | [Link](https://drive.google.com/open?id=1xcRB6KPALFXt57PsmIPD7z4SEl-eAQpo) | 10 | |
+| 10/10/2025 13:27:42 | 24520022@gm.uit.edu.vn | Lê Phạm Thành Nhân | 24520022 | 10 | [Link]([[https://drive.google.com/open?id=1u0KlR4KZYFndIhu-u_IaM32C1lLb2yoW](https://drive.google.com/open?id=1f9AvXBOZrtnh2hHGu8J6H3iY2Jejhqnf](https://drive.google.com/open?id=1f9AvXBOZrtnh2hHGu8J6H3iY2Jejhqnf))) | 10 | |
+| 10/2/2025 20:47:00 | 24521703@gm.uit.edu.vn | Phạm Ngọc Phú Thịnh - Phạm Nguyễn Duy Anh | 24521703 - 24520004 | 11 | [Link](https://drive.google.com/open?id=1xcRB6KPALFXt57PsmIPD7z4SEl-eAQpo) | 10 | |
 | 10/2/2025 23:50:41 | 24520029@gm.uit.edu.vn | Hồ Hữu Tây | 24520029 | 12 | [Link](https://drive.google.com/open?id=1Cvg3WQGacVJLV38QW0NL4ner7XUMlmXj) | 10 | |
 | 10/8/2025 23:06:21 | 24520008@gm.uit.edu.vn | Trần Xuân Đạt | 24520008 | 13 | [Link](https://drive.google.com/open?id=15zorpMRvfTs0P-gaKJl4TO8DCYwoGBu8) | 10 | |
 | 10/1/2025 15:21:11 | 24520002@gm.uit.edu.vn | Mai Quốc Anh | 24520002 | 14 | [Link](https://drive.google.com/open?id=1b1Aw-YgkBEJHyKaNoRDQqgLti1Y5uryq) | 10 | |
 | 10/2/2025 20:20:26 | 24520018@gm.uit.edu.vn | Trần Nguyễn Khải Lạc | 24520018 | 15 | [Link](https://drive.google.com/open?id=1y23eoVb6DIyF4oRJ4ux4p1Uj2CNrgyth) | 10 | |
 | 10/2/2025 21:08:51 | 24520024@gm.uit.edu.vn | Hà Thanh Phong | 24520024 | 16 | [Link](https://drive.google.com/open?id=1l-IKnC8fe6U_oJ45yPoKrHFt5D78bqOl) | 8 | 9n^2 <= 6n^2 bài 2 |
 | 10/2/2025 20:11:23 | huynhhtaybui@gmail.com | Bùi Huỳnh Tây | 24521589 | 17 | [Link](https://drive.google.com/open?id=1u0KlR4KZYFndIhu-u_IaM32C1lLb2yoW) | 10 | |
+
